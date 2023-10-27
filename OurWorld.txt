@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+Compiled by Peter Lowe [PL], Kieran Arets [KA], Jack Keane [JK], Adrian Gagarinov [AG]
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 Compiled by  PETER Lowe Adrian Gagarinov [PL]
 
@@ -9,6 +12,7 @@ Compiled by Peter Lowe [PL], Kieran Arets [KA]
 >>>>>>> c1627c34175a56dc25d04ef9ed4d2d33f8eed6b1
 Jack Keane (2)
 >>>>>>> 5ef6c956a414803b344a09d5fbbdb863b7c9c7bb
+>>>>>>> 21c395bb9432d76b871beb0d31a32756de7c9461
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl] Brazil [jk]
