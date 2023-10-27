@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 Compiled by  PETER Lowe Adrian Gagarinov [PL]
 
+=======
+Compiled by Peter Lowe [PL]
+Jack Keane (2)
+>>>>>>> 5ef6c956a414803b344a09d5fbbdb863b7c9c7bb
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
