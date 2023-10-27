@@ -1,5 +1,4 @@
-Compiled by Peter Lowe [PL], Kieran Arets [KA]
-Jack Keane (2)
+Compiled by Peter Lowe [PL], Kieran Arets [KA], Jack Keane [JK], Adrian Gagarinov [AG]
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
