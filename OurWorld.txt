@@ -1,32 +1,37 @@
 Compiled by Peter Lowe [PL], Kieran Arets [KA], Jack Keane [JK], Adrian Gagarinov [AG]
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
----- United States of America [pl], Brazil [jk], jamaica [KA]
+---- United States of America [pl], Brazil [jk], jamaica [KA] Colombia [AG]
 The world's 4th Longest River System is in the USA.
 Brazil is the largest producer of cofee.
 jamaica is the first tropical country to participate in the winter olypmics.
+Colombia is home to over 1,900 species of birds, making it the second most bird-rich country in the world.
 
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
----- France [pl], Greece [jk], liechtenstein [KA]
+---- France [pl], Greece [jk], liechtenstein [KA] Romania [AG]
 The French consume around 25,000 tons of snails each year.
 Greece is the origin of the olympics.
 Every year on liechtensteins national day, a massive party with all inhabitants is held in the Vaduz castle.
+Its official language is Romanian, which is derived from Latin and has similarities with other Romance languages.
 
 
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
------ Egypt [pl], Nigeria [jk], uganda [KA]
+----- Egypt [pl], Nigeria [jk], uganda [KA] Ethiopia [AG]
 Ancient Egyptian bakers sometimes kneaded bread dough with their feet.
 The first brewery of guinness outside of Ireland and the UK was established in Nigeria.
 The median age in Uganda is 15.7 years old making it one of the youngest countries.
+Ethiopia is home to a population that speaks more than 80 different languages.
 
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
------- China [pl], Japan [jk], south korea [KA]
+------ China [pl], Japan [jk], south korea [KA] China [AG]
 The Chinese invented ice cream over 4, 000 years ago by mixing milk with a rice mixture. 
 In Japan late night dancing was illegal after WW2 till 2015.
 In south korea, everyone is born at the age of 1 and share the same birthday of january 1st
+China has the largest population in the world, with over 1.4 billion people.
 
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
------ GreenLand [pl], New Zealand [jk], fiji [KA]
+----- GreenLand [pl], New Zealand [jk], fiji [KA] Burundi [AG]
 Greenland is home to the largest National Park in the world
 New Zealand are the most succesful team in the rugby worldcup with 3 titles and 49 games won'
 only 10% of fiji is land
+Burundi officially has two capital cities.
